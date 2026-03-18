@@ -14,6 +14,7 @@
 	<img align="center" alt="fmvini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 	<img align="center" alt="fmvini-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 	<img align="right" alt="bonfire" height="125" src= "https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" />
+	<img align="right" alt="knight" height="125" src= "https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" />
 </div>
 
 ##
