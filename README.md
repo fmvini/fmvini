@@ -1,4 +1,4 @@
-### Olá, sou Vinícius Fatichi Marrocos.
+### Olá, sou o Vinícius.
 
 - 👾Cursando Análise e Desenvolvimento de Sistemas - IFSP
 - 🕷️Estudando HTML, CSS, Javascript, C e C++
