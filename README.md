@@ -9,9 +9,9 @@
 </div>
 <div style="display: inline_block"><br>
 	<img align="center" alt="fmvini-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-	<img align="center" alt="fmvini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-	<img align="center" alt="fmvini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-	<img align="center" alt="fmvini-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+	<img align="center" alt="fmvini-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+	<img align="center" alt="fmvini-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+	<img align="center" alt="fmvini-C" height="30" width="40" src="https://camo.githubusercontent.com/e1f6f3925af34260af72cf2ef10e60e09dc6fff6d36254679b8c97105b8de6f3/68747470733a2f2f69636f6e67722e616d2f64657669636f6e2f632d6f726967696e616c2e7376673f73697a653d31323826636f6c6f723d63757272656e74436f6c6f72" />
 	<img align="center" alt="fmvini-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 	<img align="right" alt="bonfire" height="125" src= "https://media.tenor.com/drxH1lO9cfEAAAAi/dark-souls-bonfire.gif" />
 	<img align="right" alt="knight" height="125" src= "https://media.tenor.com/jP0qr_Ha7_MAAAAi/darksouls-knight.gif" />
