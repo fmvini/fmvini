@@ -1,7 +1,7 @@
 ### Olá, sou o Vinícius.
 
 - 👾Cursando Análise e Desenvolvimento de Sistemas - IFSP
-- 🕷️Estudando HTML, CSS, Javascript, C e C++
+- 🕷️Estudando HTML, CSS, Javascript, C e Python
 <!-- <div>
 	<a href="https://github.com/fmvini">
 	<img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=fmvini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=883edc"/>
