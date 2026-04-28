@@ -4,7 +4,7 @@
 
 *"Praise the Sun" — and the code*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=883EDC&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%40+IFSP;Aprendendo+HTML%2C+CSS+e+JS;Explorando+C+e+Python;Always+learning%2C+never+hollow.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=883EDC&center=true&vCenter=true&width=435&lines=Estudante+de+ADS+%40+IFSP;Aprendendo+HTML%2C+CSS+e+JS;Explorando+C+e+Python;Always+learning;)](https://git.io/typing-svg)
 
 </div>
 
