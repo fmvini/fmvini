@@ -13,7 +13,7 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:viniciusmarrocos7@gmail.com">
+  <a href="mailto:viniciusfmarrocos@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=883EDC"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/vinícius-fatichi-marrocos" target="_blank">
