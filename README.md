@@ -16,13 +16,13 @@
   <a href="mailto:viniciusmarrocos7@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=883EDC"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/vinícius-fatichi-marrocos">
+  <a href="https://www.linkedin.com/in/vinícius-fatichi-marrocos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=883EDC"/>
   </a>&nbsp;
-  <a href="https://www.instagram.com/fm.vini/">
+  <a href="https://www.instagram.com/fm.vini/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=883EDC"/>
   </a>&nbsp;
-  <a href="https://fmvini.github.io/Curriculo/">
+  <a href="https://fmvini.github.io/Curriculo/" target="_blank">
     <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=883EDC"/>
   </a>
 </p>
