@@ -50,7 +50,6 @@ status:      Sempre aprendendo.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFSP**
 - 💻 Estudando **HTML, CSS, JavaScript, C e Python**
 - 🌱 Explorando fundamentos de desenvolvimento web e lógica computacional
-- 📄 Confira meu currículo → [fmvini.github.io/Curriculo](https://fmvini.github.io/Curriculo/)
 
 <br clear="right"/>
 
