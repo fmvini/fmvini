@@ -93,8 +93,8 @@ status:      Sempre aprendendo.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fmvini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=883edc&bg_color=0d0117&title_color=883edc&icon_color=883edc&text_color=c9a0ff&border_radius=10"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmvini&layout=compact&langs_count=8&theme=midnight-purple&border_color=883edc&bg_color=0d0117&title_color=883edc&text_color=c9a0ff&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats-fmvini.vercel.app/api?username=fmvini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=883edc&bg_color=0d0117&title_color=883edc&icon_color=883edc&text_color=c9a0ff&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=fmvini&layout=compact&langs_count=8&theme=midnight-purple&border_color=883edc&bg_color=0d0117&title_color=883edc&text_color=c9a0ff&border_radius=10"/>
 
 <br/><br/>
 
