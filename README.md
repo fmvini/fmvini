@@ -98,7 +98,7 @@ status:      Sempre aprendendo.
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=fmvini&theme=midnight-purple&border=883EDC&background=0d0117&ring=883EDC&fire=b060ff&currStreakLabel=883EDC&sideLabels=c9a0ff&currStreakNum=ffffff&sideNums=ffffff&dates=7a4bad&border_radius=10"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=fmvini&theme=midnight-purple&border=883EDC&background=0d0117&ring=883EDC&fire=b060ff&currStreakLabel=883EDC&sideLabels=c9a0ff&currStreakNum=ffffff&sideNums=ffffff&dates=7a4bad&border_radius=10&v=2"/>
 
 </div>
 
