@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=883EDC&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%40+IFSP;Explorando+HTML%2C+CSS+e+JavaScript;Aprendendo+C+e+Python;Sempre+evoluindo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=883EDC&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%40+IFSP;HTML%2C+CSS+e+JavaScript;Learning+C+and+Python;Always+Developing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=883EDC"/>
   </a>&nbsp;
   <a href="https://fmvini.github.io/Curriculo/" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=883EDC"/>
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=883EDC"/>
   </a>
 </p>
 
@@ -48,8 +48,9 @@ status:      Sempre aprendendo.
 ```
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFSP**
-- 💻 Estudando **HTML, CSS, JavaScript, C e Python**
-- 🌱 Explorando fundamentos de desenvolvimento web e lógica computacional
+- 💼 **HTML, CSS, C**
+- 💻 Estudando **JavaScript e Python**
+- 🌱 Explorando fundamentos de desenvolvimento web
 
 <br clear="right"/>
 
@@ -98,7 +99,7 @@ status:      Sempre aprendendo.
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com?user=fmvini&theme=midnight-purple&border=883EDC&background=0d0117&ring=883EDC&fire=b060ff&currStreakLabel=883EDC&sideLabels=c9a0ff&currStreakNum=ffffff&sideNums=ffffff&dates=7a4bad&border_radius=10&v=2"/>
+<!-- <img width="60%" src="https://streak-stats.demolab.com?user=fmvini&theme=midnight-purple&border=883EDC&background=0d0117&ring=883EDC&fire=b060ff&currStreakLabel=883EDC&sideLabels=c9a0ff&currStreakNum=ffffff&sideNums=ffffff&dates=7a4bad&border_radius=10&v=2"/> -->
 
 </div>
 
