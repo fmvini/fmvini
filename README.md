@@ -88,10 +88,10 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fmvini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats-fmvini.vercel.app/api?username=fmvini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmvini&theme=tokyonight&hide_border=true&background=1a1a2e&ring=8B5CF6&fire=A78BFA" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmvini&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=fmvini&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
 
 </div>
 
