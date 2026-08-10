@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Suporte+de+TI+%7C+Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+de+Est%C3%A1gio+em+TI" alt="Typing SVG" />
 
@@ -70,6 +70,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 ![Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-02%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![HTML](https://img.shields.io/badge/HTML%20Essentials-03%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![CSS](https://img.shields.io/badge/CSS%20Essentials-04%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
+![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript%20Essentials%201-06%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 
 ---
 
@@ -87,10 +88,10 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fmvini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fmvini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8B5CF6&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmvini&theme=tokyonight&hide_border=true&background=1a1a2e&ring=8B5CF6&fire=A78BFA" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmvini&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9c9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmvini&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9c9&cache_seconds=86400" width="48%"/>
 
 </div>
 
@@ -100,10 +101,6 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmvini&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=A78BFA&line=8B5CF6&point=ffffff" width="95%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/fmvini/fmvini/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
 ---
@@ -122,6 +119,6 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 *"Cada linha de código é um passo a mais na direção da oportunidade certa."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=120&section=footer" width="100%"/>
 
 </div>
