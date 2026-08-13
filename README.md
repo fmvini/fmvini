@@ -67,7 +67,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 **Cisco**
 
-![Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-02%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
+![Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-03%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![HTML](https://img.shields.io/badge/HTML%20Essentials-03%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![CSS](https://img.shields.io/badge/CSS%20Essentials-04%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript%20Essentials%201-06%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
