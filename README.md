@@ -72,7 +72,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 ![HTML](https://img.shields.io/badge/HTML%20Essentials-03%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![CSS](https://img.shields.io/badge/CSS%20Essentials-04%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
 ![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript%20Essentials%201-06%2F2026-1a1a2e?style=flat-square&logo=cisco&logoColor=8B5CF6)
-![Santander Java AI Backend](https://img.shields.io/badge/Santander%20Java%20AI%20Backend-08%2F2026-1a1a2e?style=flat-square&logo=dio&logoColor=8B5CF6)
+![Santander Java AI Backend](https://img.shields.io/badge/Santander%20Java%20AI%20Backend-08%2F2026-1a1a2e?style=flat-square&logo=openjdk&logoColor=8B5CF6)
 
 ---
 
