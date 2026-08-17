@@ -25,7 +25,7 @@
 
 ---
 
-### 🟣 Sobre mim
+### Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**, com previsão de conclusão em dezembro de 2028, construindo uma base sólida em lógica de programação, desenvolvimento Fullstack e fundamentos de cibersegurança.
 
@@ -39,7 +39,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### 🟣 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### 🟣 Certificações
+### Certificações
 
 **Cisco**
 
@@ -76,7 +76,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### 🟣 Soft Skills
+### Soft Skills
 
 | Habilidade | Descrição |
 |---|---|
@@ -86,7 +86,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### 🟣 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### 🟣 Conecte-se
+### Conecte-se
 
 <div align="center">
 
