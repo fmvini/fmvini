@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Suporte+de+TI+%7C+Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+de+Est%C3%A1gio+em+TI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+de+Est%C3%A1gio+em+TI" alt="Typing SVG" />
 
 <br/>
 
