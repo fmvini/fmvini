@@ -119,6 +119,12 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fmvini/fmvini/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fmvini/fmvini/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/fmvini/fmvini/output/github-contribution-grid-snake.svg" />
+</picture>
+
 *"Cada linha de código é um passo a mais na direção da oportunidade certa."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=120&section=footer" width="100%"/>
