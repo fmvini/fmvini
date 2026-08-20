@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:4A4A4A,100:1A1A1A&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=E8E8E8&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B0B0B0&center=true&vCenter=true&width=650&lines=Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+de+Est%C3%A1gio+em+TI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B0B0B0&center=true&vCenter=true&width=650&lines=Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 
 <br/>
 
@@ -63,7 +63,7 @@
 &gt; CORE MODULES ....... Python // Java // React // SQL
 &gt; LANGUAGES .......... PT-BR (nativo) // EN (avançado)
 &gt; CERTIFICATIONS ..... Cisco x4 // Santander Java AI
-&gt; UPTIME ............. Sempre aprendendo
+&gt; UPTIME ............. STUDYING
 
 &gt; BOOT SEQUENCE
   [OK] carregando fundamentos de lógica
@@ -141,9 +141,9 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=fmvini&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fmvini&bg_color=0D0D0D&color=9CA3AF&line=6B6B6B&point=E8E8E8&hide_border=true" width="95%"/>
