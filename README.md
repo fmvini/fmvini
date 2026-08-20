@@ -103,16 +103,24 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=9ca3af)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=9ca3af)
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=9ca3af)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=9ca3af)
 
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=9ca3af)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=9ca3af)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=9ca3af)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=9ca3af)
 
 **Ferramentas**
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=9ca3af)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0d0d0d?style=for-the-badge&logo=intellijidea&logoColor=9ca3af)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9ca3af)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0d0d0d?style=for-the-badge&logo=claude&logoColor=9ca3af)
 
 </div>
 
