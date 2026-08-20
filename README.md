@@ -1,18 +1,17 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Vinícius Fatichi Marrocos — Full Stack Developer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+oportunidade+de+Est%C3%A1gio+em+TI" alt="Typing SVG" />
+
+<br/>
+
+![Academic](https://img.shields.io/badge/IFSP-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Socorro%2C%20SP-Brasil-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fatichi-marrocos)
 [![Gmail](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusfmarrocos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fmvini)
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fmvini&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/fmvini?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
@@ -23,14 +22,9 @@
 ---
 
 ### Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**, com previsão de conclusão em dezembro de 2028, construindo uma base sólida em lógica de programação, desenvolvimento Fullstack e fundamentos de cibersegurança.
-
-Estou construindo meus primeiros projetos e ampliando meu domínio de **JavaScript, Python, C, HTML e CSS**, com o objetivo de ingressar como **estagiário ou desenvolvedor júnior** em uma equipe de tecnologia.
-
 ```yaml
 Aberto a: Estágio em TI | Suporte Técnico | Desenvolvedor Junior
-Aprendendo: Desenvolvimento Fullstack, Lógica de Programação Avançada, Cibersegurança
+Aprendendo no momento: Python, Java, React, SQL
 Idiomas: Português (Nativo) | Inglês (Avançado)
 ```
 
@@ -73,16 +67,6 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ---
 
-### Soft Skills
-
-| Habilidade | Descrição |
-|---|---|
-| Responsabilidade | Comprometimento em cumprir obrigações e assumir responsabilidades |
-| Proatividade | Iniciativa para identificar e abordar questões antes que se tornem problemas |
-| Inteligência | Capacidade de compreender conceitos e resolver problemas de forma eficaz |
-
----
-
 ### GitHub Analytics
 
 <div align="center">
@@ -109,7 +93,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/viniciusfmarrocos%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusfmarrocos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Vin%C3%ADcius%20Fatichi%20Marrocos-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fatichi-marrocos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-fatichi-marrocos)
 [![GitHub](https://img.shields.io/badge/fmvini-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fmvini)
 
 </div>
@@ -122,7 +106,7 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
   <img alt="snake animation" src="https://raw.githubusercontent.com/fmvini/fmvini/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*"Cada linha de código é um passo a mais na direção da oportunidade certa."*
+*"Nothing in life is promissed except death."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:4C1D95&height=120&section=footer" width="100%"/>
 
