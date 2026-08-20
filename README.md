@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:4A4A4A,100:1A1A1A&height=220&section=header&text=Vin%C3%ADcius%20Fatichi%20Marrocos&fontSize=38&fontColor=E8E8E8&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:4A4A4A,100:1A1A1A&height=220&section=header&text=Vin%C3%ADcius%20F.%20Marrocos&fontSize=38&fontColor=E8E8E8&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20ADS%20%7C%20Aspirante%20a%20Dev%20Full%20Stack&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=B0B0B0&center=true&vCenter=true&width=650&lines=Desenvolvedor+Junior+%7C+Est%C3%A1gio;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 
