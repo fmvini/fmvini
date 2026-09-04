@@ -134,7 +134,9 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 ![HTML](https://img.shields.io/badge/HTML%20Essentials-03%2F2026-0d0d0d?style=flat-square&logo=cisco&logoColor=9ca3af)
 ![CSS](https://img.shields.io/badge/CSS%20Essentials-04%2F2026-0d0d0d?style=flat-square&logo=cisco&logoColor=9ca3af)
 ![JavaScript Essentials 1](https://img.shields.io/badge/JavaScript%20Essentials%201-06%2F2026-0d0d0d?style=flat-square&logo=cisco&logoColor=9ca3af)
+![JavaScript Essentials 2](https://img.shields.io/badge/JavaScript%20Essentials%202-09%2F2026-0d0d0d?style=flat-square&logo=cisco&logoColor=9ca3af)
 ![Santander Java AI Backend](https://img.shields.io/badge/Santander%20Java%20AI%20Backend-08%2F2026-0d0d0d?style=flat-square&logo=openjdk&logoColor=9ca3af)
+![Python Essentials 1](https://img.shields.io/badge/Python%20Essentials%201-09%2F2026-0d0d0d?style=flat-square&logo=python&logoColor=9ca3af)
 
 ---
 
