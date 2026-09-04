@@ -62,7 +62,7 @@
 &gt; OBJECTIVE .......... Estágio em TI
 &gt; CORE MODULES ....... Python // Java // React // SQL
 &gt; LANGUAGES .......... PT-BR (nativo) // EN (avançado)
-&gt; CERTIFICATIONS ..... Cisco x4 // Santander Java AI
+&gt; CERTIFICATIONS ..... Cisco x6 // Santander Java AI
 &gt; UPTIME ............. STUDYING
 
 &gt; BOOT SEQUENCE
