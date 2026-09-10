@@ -128,8 +128,6 @@ Idiomas: Português (Nativo) | Inglês (Avançado)
 
 ### Certificações
 
-## 🎓 Certificados
-
 ### Cisco Networking Academy
 
 ![Cybersecurity](https://img.shields.io/badge/Introduction%20to%20Cybersecurity-03%2F2026-0d0d0d?style=flat-square&logo=cisco&logoColor=9ca3af)
