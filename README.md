@@ -11,6 +11,7 @@
 </div>
 
 ---
+<!-- 
 
 ### Cursos & Certificações
 
@@ -28,7 +29,7 @@
 ![Santander Java AI Backend](https://img.shields.io/badge/Santander%20Java%20AI%20Backend-08%2F2026-0d0d0d?style=flat-square&logo=openjdk&logoColor=9ca3af)
 
 ---
-
+-->
 ### GitHub Analytics
 
 <div align="center">
